@@ -7,7 +7,7 @@ node -v
 ```
 
 If it's not installed in your system then please install them by checking official documentation of nodejs,
--https://nodejs.org/en/
+https://nodejs.org/en/
 After that, Install Package dependency by running 
 ```
 npm install
